@@ -10,8 +10,4 @@ A fun Farcaster mini-app where memes battle for glory.
 - Farcaster login (stubbed)
 
 
-## Run Locally
-```bash
-npm install
-npm run dev
-```
+
